@@ -1,2 +1,2 @@
-# Learner_Registration_System
-It's a registration system that assists lecturers or teachers to enter learners according to their course.
+# customer_database
+Links the SQL to python code to automatically store data of the customer in the SQL.
